@@ -1,1 +1,5 @@
 /* Place all CSS rules in this file */
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
